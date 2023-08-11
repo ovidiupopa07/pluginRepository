@@ -6,7 +6,7 @@
           "version": "0.0.1",
             "date": "2022-11-03T11:25:15.364335Z",
             "requires": "orca>=0.0.0,deck>=0.0.0",
-            "url": "https://github.com/ovidiupopa07/pluginRepository/releases/download/v0.0.1-github-plugin/github-api-plugin-0.0.1.zip"
+            "url": "https://github.com/ovidiupopa07/pluginRepository/releases/download/v0.0.1-github-plugin/github-plugin-0.0.1.zip"
         }
     ]
 }]
