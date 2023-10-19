@@ -1,12 +1,26 @@
-[{
+[
+  {
     "id": "Armory.GithubApiPlugin",
     "description": "An example of a PF4J based plugin, that provides a new stage.",
     "releases": [
-        {
-          "version": "0.0.1",
-            "date": "2022-11-03T11:25:15.364335Z",
-            "requires": "orca>=0.0.0,deck>=0.0.0",
-            "url": "https://github.com/ovidiupopa07/pluginRepository/releases/download/v0.0.1-github-plugin/github-plugin-0.0.1.zip"
-        }
+      {
+        "version": "0.0.1",
+        "date": "2022-11-03T11:25:15.364335Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "url": "https://github.com/ovidiupopa07/pluginRepository/releases/download/v0.0.1-github-plugin/github-plugin-0.0.1.zip"
+      }
     ]
-}]
+  },
+  {
+    "id": "Armory.CloudWatch",
+    "description": "This plugin adds the CloudWatch metric store to Spinnaker Kayenta.",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "2022-11-03T11:25:15.364335Z",
+        "requires": "kayenta>=0.0.0",
+        "url": "https://github.com/ovidiupopa07/pluginRepository/releases/download/v0.0.1-cloudwatch/cloudwatch-0.0.1.zip"
+      }
+    ]
+  }
+]
