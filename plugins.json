@@ -18,7 +18,7 @@
       {
         "version": "0.1.0",
         "date": "2022-11-03T11:25:15.364335Z",
-        "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0,fiat>=0.0.0",
+        "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0,fiat>=0.0.0,front50>=0.0.0",
         "url": "https://github.com/ovidiupopa07/pluginRepository/releases/download/v0.1.0-github-integration/github-integration-0.1.0.zip"
       }
     ]
